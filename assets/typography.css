@@ -1,0 +1,16 @@
+/*
+ Projeto: Bem-te-vi
+ Autor: Diego Abreu
+ Arquivo: typhography.py
+ Resumo: typhography.css é o arquivo padrão para ajustes css do plotly.
+         Este arquivo contém código para melhorar a aparência do dashboard.
+-------------------------------------------------------------------
+------------------------------------------------------------------- */
+/* Deixa o fundo da mesma cor do tema do dashboard e retira as bordas.*/
+html, body {margin : 0;
+            background-color: #111111; }
+/* Determina altura mínima do dashboard para que toda informação
+apareça em uma só tela, sem scrool. */
+div.plot-container.plotly{min-height: 690px;}
+/* Não exibi um menu de erros nativo do plotly dash*/
+div.dash-debug-menu.dash-debug-menu--closed{display:none;}
