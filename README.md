@@ -93,7 +93,7 @@ Verifique os arquivos que foram criados no diretório "relatorios". Lá, você e
 ### Estudos de caso feitos com o bem-te-vi:
 
 - [02/10/19 - Grêmio x Flamengo - Semifinal Copa Libertadores da América](https://diegoabreu.com/Uploads/tcc/grexfla.pdf)
-- [06/10/19 - último dia do Rock in Rio 2019](https://diegoabreu.com/Uploads/tcc/rockinrio.pdf)
+- [06/10/19 - Último dia do Rock in Rio 2019](https://diegoabreu.com/Uploads/tcc/rockinrio.pdf)
 
 ***
 ![](https://raw.githubusercontent.com/DiegoAbreu/Projeto_Bem-te-vi_TCC_PUC-Minas/master/imagens/bem-te-vi-rodape.png)
