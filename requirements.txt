@@ -213,7 +213,7 @@ traitlets==4.3.2
 tweepy==3.8.0
 unicodecsv==0.14.1
 Unidecode==1.1.1
-urllib3==1.24.2
+urllib3==1.26.5
 vaderSentiment==3.2.1
 wcwidth==0.1.7
 webencodings==0.5.1
