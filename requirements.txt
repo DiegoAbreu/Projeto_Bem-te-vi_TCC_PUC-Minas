@@ -47,7 +47,7 @@ dask==2.1.0
 DateTime==4.3
 decorator==4.4.0
 defusedxml==0.6.0
-distributed==2.1.0
+distributed==2021.10.0
 docutils==0.14
 emoji==0.5.4
 entrypoints==0.3
