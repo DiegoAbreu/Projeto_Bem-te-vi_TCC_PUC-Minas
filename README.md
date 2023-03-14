@@ -1,6 +1,6 @@
 # Projeto bem-te-vi
 Trabalho de conclusão do curso de Pós-Graduação em Ciência de dados e Big Data | PUC-Minas(2018/2019).
-- [PDF completo do Trabalho de Conclusão de Curso](https://drive.google.com/open?id=1k4UOzioGtjEBw3nSbZ6QHdm_-E3tmEnt)
+- [PDF completo do Trabalho de Conclusão de Curso](https://drive.google.com/file/d/1fYO5Sou2fN36w8iyQaXR2abmWCepna3W/view?usp=share_link)
 ***
 ![](https://raw.githubusercontent.com/DiegoAbreu/Projeto_Bem-te-vi_TCC_PUC-Minas/master/imagens/bem-te-vi-cabecalho.png)
 ***
@@ -92,8 +92,8 @@ Verifique os arquivos que foram criados no diretório "relatorios". Lá, você e
 
 ### Estudos de caso feitos com o bem-te-vi:
 
-- [02/10/19 - Grêmio x Flamengo - Semifinal Copa Libertadores da América](https://diegoabreu.com/Uploads/tcc/grexfla.pdf)
-- [06/10/19 - Último dia do Rock in Rio 2019](https://diegoabreu.com/Uploads/tcc/rockinrio.pdf)
+- [02/10/19 - Grêmio x Flamengo - Semifinal Copa Libertadores da América](https://drive.google.com/file/d/1s6b6Jnnyi5LbyC97DjJUlZJxj8RB7opN/view?usp=share_link)
+- [06/10/19 - Último dia do Rock in Rio 2019](https://drive.google.com/file/d/1kK8UnDPfmXfltFiqMYbaQv4ywSJLVNdz/view?usp=share_link)
 
 ***
 ![](https://raw.githubusercontent.com/DiegoAbreu/Projeto_Bem-te-vi_TCC_PUC-Minas/master/imagens/bem-te-vi-rodape.png)
